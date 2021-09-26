@@ -4,8 +4,6 @@
 
 解锁网易云音乐客户端变灰歌曲
 
-fork 自 [nondanee 的原版](https://github.com/nondanee/UnblockNeteaseMusic)，仅作部分优化。十分感谢 nondanee 提供如此棒的工具！
-
 ## 特性
 
 -   使用 Bilibili / QQ / 酷狗 / 酷我 / 咪咕 / JOOX / Youtube 等音源替换变灰歌曲链接 (默认仅激活一、三、四、五)
@@ -268,4 +266,6 @@ match(418602084, ['qq', 'kuwo', 'migu']).then(console.log);
 
 ## 许可
 
-The MIT License
+(Original project) [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic): [MIT](https://spdx.org/licenses/MIT.html)
+
+(This project) [UnblockNeteaseMusic/server](https://github.com/UnblockNeteaseMusic/server): [LGPL-3.0-only](https://spdx.org/licenses/LGPL-3.0-only.html)
